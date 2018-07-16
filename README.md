@@ -32,6 +32,8 @@ Run `npm install`to install all dependencies.
 
 Run `ionic serve`to start the development environment.
 
+基本的にWebアプリ(PWA)用に作成していますが、src/index.htmlのcordovaの部分を修正後、androidアプリやiosアプリをbuildすることもできます。
+
 
 作成経過は以下に記載しています。
 
