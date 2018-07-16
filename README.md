@@ -28,6 +28,8 @@ export const environment = {
 
 `git clone https://github.com/adash333/ionic3-firebase-todo2.git`
 
+modify "src/environments/environment.ts"
+
 Run `npm install`to install all dependencies.
 
 Run `ionic serve`to start the development environment.
